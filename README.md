@@ -6,7 +6,7 @@ Atualmente estou estudando o desenvolvimento de APIs, tendo boas prÃ¡ticas de cÃ
 
 ## ğŸŒ Onde me encontrar
 
-<p align="left">
+
   <a href="https://www.linkedin.com/in/juanfoltran">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>&nbsp;&nbsp;
@@ -16,7 +16,6 @@ Atualmente estou estudando o desenvolvimento de APIs, tendo boas prÃ¡ticas de cÃ
   <a href= "https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=juan16foltran@gmail.com">
   <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-</p>
 
 ## Tecnologias & Ferramentas
 
