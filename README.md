@@ -9,10 +9,10 @@ Atualmente estou estudando o desenvolvimento de APIs, tendo boas pr√°ticas de c√
 <p align="left">
   <a href="https://www.linkedin.com/in/juanfoltran">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  </a>&nbsp;&nbsp;
   <a href= "https://github.com/Juan-Foltran">
   <img src= "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+  </a>&nbsp;&nbsp;
   <a href= "https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=juan16foltran@gmail.com">
   <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
