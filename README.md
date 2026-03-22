@@ -1,33 +1,53 @@
-# Olá 👋, sou o Juan Teodoro Foltran
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Olá,%20sou%20o%20Juan%20Foltran!&fontSize=45&fontAlignY=35&desc=Back-end%20Developer&descAlignY=55" width="100%"/>
+</div>
 
-🚀 **Estudante de programação Back-end | JavaScript & Node.js** 🇧🇷 Brasil
+<br>
 
-Atualmente estou estudando o desenvolvimento de APIs, tendo boas práticas de código e conceitos funcdamentais do back-end, sempre estou buscando evoluir através de projetos práticos com aprendizado contínuo.
+<div align="center">
+  🚀 <b>Estudante de programação Back-end | JavaScript, TypeScript & Node.js</b> 🇧🇷
+  <br><br>
+  <i>Atualmente estudando o desenvolvimento de APIs, focando em boas práticas de código e aplicando os conceitos fundamentais do back-end. Sempre na busca por evoluir através de projetos práticos e aprendizado contínuo.</i>
+</div>
 
-<div width="100%">
-  <a href="https://github.com/juan-foltran">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juan-foltran&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan-foltran&layout=compact&langs_count=7&theme=tokyonight" />
+<br>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/juanfoltran" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/juan-foltran" target="_blank">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:juan16foltran@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
+
 <br>
 
-## Tecnologias & Ferramentas
+---
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
+### 🛠️ Tecnologias & Ferramentas
+
+<div align="center">
+  <br>
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,express," alt="Habilidades"/>
+  <br>
+</div>
+
 <br>
 
-## 🌐 Onde me encontrar
+---
 
-   <a href="https://www.linkedin.com/in/juanfoltran">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>&nbsp;&nbsp;
-  <a href= "https://github.com/Juan-Foltran">
-  <img src= "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-  </a>&nbsp;&nbsp;
-  <a href= "https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=juan16foltran@gmail.com">
-  <img src= "https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+### 📊 Stats
+
+<div align="center">
+  <br>
+  <a href="https://github.com/juan-foltran">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juan-foltran&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan-foltran&layout=compact&langs_count=7&theme=tokyonight" alt="Top Langs"/>
   </a>
-<!--![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;-->
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=juan-foltran&color=blueviolet&style=flat-square&label=VISITAS" alt="Contador de Visitas" />
+</div>
