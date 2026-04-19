@@ -45,10 +45,9 @@
 <div align="center">
   <br>
  <a href="https://github.com/juan-foltran">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=juan-foltran&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=juan-foltran&layout=compact&langs_count=7&theme=tokyonight" alt="Top Langs"/>
-</a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juan-foltran&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan-foltran&layout=compact&langs_count=7&theme=tokyonight" alt="Top Langs"/>
+  </a>
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=juan-foltran&color=blueviolet&style=flat-square&label=VISITAS" alt="Contador de Visitas" />
 </div>
